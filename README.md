@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pahalpunjabi/DSA/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pahalpunjabi/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/pahalpunjabi/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/pahalpunjabi/DSA/tree/master/3174-clear-digits) |
 ## Stack
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pahalpunjabi/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/pahalpunjabi/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pahalpunjabi/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pahalpunjabi/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/pahalpunjabi/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/pahalpunjabi/DSA/tree/master/3174-clear-digits) |
 ## Monotonic Stack
