@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pahalpunjabi/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pahalpunjabi/DSA/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/pahalpunjabi/DSA/tree/master/0283-move-zeroes) |
+| [2000-reverse-prefix-of-word](https://github.com/pahalpunjabi/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pahalpunjabi/DSA/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/pahalpunjabi/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/pahalpunjabi/DSA/tree/master/3174-clear-digits) |
 ## Stack
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pahalpunjabi/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/pahalpunjabi/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pahalpunjabi/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2000-reverse-prefix-of-word](https://github.com/pahalpunjabi/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/pahalpunjabi/DSA/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
