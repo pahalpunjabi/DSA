@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pahalpunjabi/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pahalpunjabi/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pahalpunjabi/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/pahalpunjabi/DSA/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/pahalpunjabi/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pahalpunjabi/DSA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/pahalpunjabi/DSA/tree/master/0496-next-greater-element-i) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/pahalpunjabi/DSA/tree/master/3174-clear-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/pahalpunjabi/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
