@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pahalpunjabi/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/pahalpunjabi/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pahalpunjabi/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pahalpunjabi/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pahalpunjabi/DSA/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/pahalpunjabi/DSA/tree/master/0283-move-zeroes) |
 | [2000-reverse-prefix-of-word](https://github.com/pahalpunjabi/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pahalpunjabi/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pahalpunjabi/DSA/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/pahalpunjabi/DSA/tree/master/0217-contains-duplicate) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pahalpunjabi/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -60,8 +63,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/pahalpunjabi/DSA/tree/master/3174-clear-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pahalpunjabi/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pahalpunjabi/DSA/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pahalpunjabi/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pahalpunjabi/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
