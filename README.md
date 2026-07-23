@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pahalpunjabi/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pahalpunjabi/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pahalpunjabi/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2540-minimum-common-value](https://github.com/pahalpunjabi/DSA/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pahalpunjabi/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pahalpunjabi/DSA/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/pahalpunjabi/DSA/tree/master/0283-move-zeroes) |
 | [2000-reverse-prefix-of-word](https://github.com/pahalpunjabi/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2540-minimum-common-value](https://github.com/pahalpunjabi/DSA/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pahalpunjabi/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pahalpunjabi/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/pahalpunjabi/DSA/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/pahalpunjabi/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2540-minimum-common-value](https://github.com/pahalpunjabi/DSA/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pahalpunjabi/DSA/tree/master/0035-search-insert-position) |
+| [2540-minimum-common-value](https://github.com/pahalpunjabi/DSA/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
